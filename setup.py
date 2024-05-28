@@ -27,7 +27,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'move_joint = scripts.move_joint:main',
+            'move_joint = scripts.codigo:main',
         ],
     },
 )
